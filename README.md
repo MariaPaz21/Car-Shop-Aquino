@@ -11,4 +11,4 @@ Descripción: Este Car Shop es un formulario desarrollado con el objetivo de env
 
 Desarrollo: El código funcional del Car Shop está dividido en diferentes archivos: App.jsx (main App function) y la carpeta de componentes. La carpeta de componentes contiene: PersonalInfo.jsx (información del cliente), CarInfo.jsx (información del vehículo), ServiceInfo.jsx (información de los servicios a escoger), toppings.jsx (lista de servicios a escoger), OrdenTrabajo.jsx (la orden final) y Form.jsx (código principal del formulario).
 
-Despliegue: El sitio está desplegado con AWS y es público.
+Despliegue: 
